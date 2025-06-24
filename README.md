@@ -1,3 +1,4 @@
+<img src="https://github.com/dadinaveen1729/dadinaveen1729/blob/main/image.png" alt="Dadi Naveen Banner" width="100%"/>
 # Hi there 👋 Welcome to my GitHub!
 
 I'm **Dadi Naveen**, a strategic and data-driven Program Manager with 4+ years of experience in operations, business analytics, and CRM optimization. I'm building intelligent solutions that drive business innovation, enable creator success, and streamline operations.
